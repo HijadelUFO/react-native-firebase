@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "opencollective-postinstall": "^2.0.1",
-    "superstruct": "^0.6.2"
+    "superstruct": "^0.10.12"
   },
   "publishConfig": {
     "access": "public"
